@@ -11,3 +11,6 @@ data/processed/*
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# sandbox for my own creations and additional explorations
+/scratch/
